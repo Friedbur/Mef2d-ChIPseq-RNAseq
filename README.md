@@ -106,10 +106,10 @@ The scripts were written to run on the course's HPC cluster and expect specific 
 Raw sequencing reads and Salmon quantification files are not included in this repository because of their size.
 
 ```bash
-python3 "Required Material/Sumrall_Aidan_fp_Part1.py"
+python3 "Sumrall_Aidan_fp_Part1.py"
 # bedtools steps + GREAT submission
-python3 "Required Material/Sumrall_Aidan_fp_Part2.py"
-Rscript "Required Material/Sumrall_Aidan_fp.R"
+python3 "Sumrall_Aidan_fp_Part2.py"
+Rscript "Sumrall_Aidan_fp.R"
 ```
 
 ## Notes
@@ -120,7 +120,7 @@ Rscript "Required Material/Sumrall_Aidan_fp.R"
 
 ## References
 
-A full list of documentation and tutorials used is in [`Miscellaneous/References.txt`](Miscellaneous/References.txt). Key tools:
+A full list of documentation and tutorials used is in [`References.txt`](References.txt). Key tools:
 
 - Love, Huber & Anders (2014). DESeq2. *Genome Biology*.
 - Patro et al. (2017). Salmon. *Nature Methods*.
