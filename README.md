@@ -24,7 +24,7 @@ The pipeline has three parts:
 
 Of the 24 putative direct targets, **23 are downregulated** in the knockout, consistent with Mef2d acting mainly as a transcriptional **activator**. Many of the top hits are photoreceptor and phototransduction genes, including *Arr3*, *Sag*, *Gngt1*, *Rd3l*, *Rgs20*, and *Wdr17*. *Arr3* shows the strongest effect (log2FC ≈ −8.6). The only upregulated gene is *Gins2*.
 
-The full table is in [`Miscellaneous/Mef2d_final.csv`](Miscellaneous/Mef2d_final.csv).
+The full table is in [`Mef2d_final.csv`](Mef2d_final.csv).
 
 ## Repository Structure
 
